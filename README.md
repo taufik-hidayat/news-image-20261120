@@ -1,8 +1,8 @@
 # news-image-20261120-repo
 
 [![make.fun · news-image-20261120](https://make.fun/badge/news-image-20261120.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
-[![rank](https://make.fun/badge/news-image-20261120/taufik-hidayat/news-image-20261120-repo/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
-[![reward](https://make.fun/badge/news-image-20261120/taufik-hidayat/news-image-20261120-repo/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![rank](https://make.fun/badge/news-image-20261120/taufik-hidayat/news-image-20261120/rank.svg)](https://make.fun/bounty/news-image-20261120/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
+[![reward](https://make.fun/badge/news-image-20261120/taufik-hidayat/news-image-20261120/reward.svg)](https://make.fun/bounty/news-image-20261120?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261120)
 
 One image that sums up Friday 20 November 2026: a front-page infographic with 30 real, sourced news stories from six continents — Cyclone Akvan's landfall in India, the Kyiv missile barrage, the COP31 final-day deadlock, the Asia AI sell-off, and GTA VI's record launch — plus a UTC timeline strip of the day and a source tag on every story. The image is drawn by a Python script (Pillow) from the story list in `compose.py`; `main.ts` copies the finished PNG into the output directory and validates it.
 
